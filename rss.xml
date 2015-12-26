@@ -4,11 +4,18 @@
         <description><![CDATA[besslers]]></description>
         <link>https://thegrid.ai/besslers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 22:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 22:55:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/besslers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Nice hat]]></title>
+            <description><![CDATA[<article><h1>Nice hat</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d74c343bd1d1ef127951d4ce5d5e6ac598242ddd.png"></article>]]></description>
+            <link>https://thegrid.ai/besslers/nice-hat/index.html</link>
+            <guid isPermaLink="false">304e1519-86e8-4604-a2d3-9a903f88ddc8</guid>
+            <pubDate>Sat, 26 Dec 2015 22:54:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Christmas chilling]]></title>
-            <description><![CDATA[<article><h1>Christmas chilling</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da7ee877-b6c8-4451-8f31-a31f7354cedc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Christmas chilling</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34a2f5f54d536b2df7fcaf9418461a27368a8801.png"></article>]]></description>
             <link>https://thegrid.ai/besslers/christmas-chilling/index.html</link>
             <guid isPermaLink="false">5f780748-d9f4-44bd-8965-c1321edaf158</guid>
             <pubDate>Sat, 26 Dec 2015 22:54:35 GMT</pubDate>
