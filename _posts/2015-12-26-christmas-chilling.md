@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-12-26T22:54:35.376Z'
+datePublished: '2015-12-26T22:54:50.278Z'
 publisher:
   domain: ''
   name: ''
 title: Christmas chilling
-dateModified: '2015-12-26T22:54:11.908Z'
+dateModified: '2015-12-26T22:54:35.376Z'
 sourcePath: _posts/2015-12-26-christmas-chilling.md
 published: true
 inFeed: true
